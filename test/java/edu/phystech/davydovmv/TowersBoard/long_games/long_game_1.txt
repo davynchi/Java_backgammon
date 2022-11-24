@@ -1,0 +1,5 @@
+a1_w c1_w e1_w f2_ww h2_w g5_wbb
+a3_b e3_b a5_bww c5_bwww e7_b g7_b b8_b d8_b f8_b h8_b
+f2_ww:d4_wwb:b6_wwbb g7_b-f6_b
+h2_w-g3_w f6_b:h4_bw:f2_bww
+e1_w:g3_wb g5_bb-h4_bb

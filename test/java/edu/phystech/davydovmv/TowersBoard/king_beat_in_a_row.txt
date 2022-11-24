@@ -1,0 +1,3 @@
+c1_W d4_w d6_wwB g7_wb
+b6_bBW f6_b c3_bbb e3_B f8_B
+c1_W:g5_WB:d8_WBb:a5_WBbb:d2_WBbbb f8_B:c5_Bw:e3_Bww:c1_BwwW

@@ -1,0 +1,3 @@
+c3_w d4_w
+h8_b g2_b
+c3_w-b4_w h8_b-h7_b
